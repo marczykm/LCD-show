@@ -17,9 +17,6 @@ if [ "$_IP" ]; then
   printf "My IP address is %s\n" "$_IP"
 fi
 
-sleep 7
 fbcp &
-
-con2fbmap 1 0
 
 exit 0
