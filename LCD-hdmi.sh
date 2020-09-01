@@ -5,4 +5,4 @@
 #sudo cp ./inittab /etc/
 #sudo cp -rf ./etc/rc.local /etc/rc.local
 sudo cp ./boot/config-hdmi.txt /boot/config.txt
-sudo reboot
+#sudo reboot
